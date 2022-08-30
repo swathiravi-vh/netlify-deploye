@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 30px 30px;
+    margin: 30px 0px;
+}
+.fa{
+    color:blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+    font-size: 12px;
+}
+.box{
+    padding:80px 0px;
+    display:inline
+}
